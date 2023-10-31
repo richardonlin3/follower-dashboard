@@ -28,7 +28,7 @@ Unser Social-Media-Dashboard wird eine Reihe von Funktionen bieten, darunter:
 
 ### Mitmachen und Beitrag leisten
 
-Wir glauben an die Kraft der Open Source-Community und würden uns freuen, wenn Sie zu diesem Projekt beitragen würden. Egal, ob Sie Entwickler, Designer oder Tester sind - es gibt viele Möglichkeiten, wie Sie dazu beitragen können. Besuchen Sie unsere [Contributing](CONTRIBUTING.md)-Seite, um zu erfahren, wie Sie Teil dieses aufregenden Projekts werden können.
+Wir glauben an die Kraft der Open Source-Community und würden uns freuen, wenn Sie zu diesem Projekt beitragen würden. Egal, ob Sie Entwickler, Designer oder Tester sind - es gibt viele Möglichkeiten, wie Sie dazu beitragen können.
 
 ### Lizenz
 
