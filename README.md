@@ -48,7 +48,7 @@ Die Benutzeroberfläche wurde entwickelt, um benutzerfreundlich und intuitiv zu 
 
 ### Was noch kommt
 
-Wir sind derzeit dabei, die Daten von TikTok und Instagram zud implementieren. Danach werden wir die letzten Feinabstimmungen und Tests durchführen, um sicherzustellen, dass das Dashboard reibungslos funktioniert und den Anforderungen unserer Nutzer entspricht. Darüber hinaus arbeiten wir an der Dokumentation, um sicherzustellen, dass die Verwendung des Dashboards so einfach wie möglich ist.
+Wir sind derzeit dabei, die Daten von TikTok und Instagram zu implementieren. Danach werden wir die letzten Feinabstimmungen und Tests durchführen, um sicherzustellen, dass das Dashboard reibungslos funktioniert und den Anforderungen unserer Nutzer entspricht. Darüber hinaus arbeiten wir an der Dokumentation, um sicherzustellen, dass die Verwendung des Dashboards so einfach wie möglich ist.
 
 Die Veröffentlichung des Projekts steht kurz bevor, und wir können es kaum erwarten, es der Welt zur Verfügung zu stellen.
 
