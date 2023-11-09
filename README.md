@@ -7,7 +7,10 @@ Willkommen beim Social-Media-Dashboard-Projekt! Dieses Open-Source-Dashboard wur
 > [!NOTE]
 > You can find the English version of the text below the German version on the same page. [Here is the link to the English version.](#-english-version)
 
-![Ein Screenshot der Desktop-Applikation](/assets/desktop.jpg "Erster Entwurf")
+<picture>
+  <img alt="Screenshot der Desktop-App." src="/assets/desktop.png" >
+</picture>
+
 
 ## Projektüberblick
 
@@ -135,7 +138,11 @@ Nochmals vielen Dank, dass Sie Teil unserer Community sind und sich für das Soc
 
 <br />
 
-# 🇬🇧 English Version
+# English Version
+
+<picture>
+  <img alt="Screenshot of the desktop-application." src="/assets/desktop.png" >
+</picture>
 
 ## Project Overview
 
